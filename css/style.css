@@ -1,0 +1,204 @@
+body {
+    background-color: #A6BB8D;
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+.profile {
+    height: auto;
+    width: 50%;
+    margin: 50px auto;
+    border-radius: 60px;
+    background-color: #EAE7B1;
+}
+
+img {
+    width: 200px;
+}
+
+h1 {
+    color: #3C6255;
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+h3 {
+    color: #3C6255;
+    text-align: center;
+}
+
+h4 {
+    color: #3C6255;
+}
+
+.marks-heading {
+    text-align: center;
+}
+
+p {
+    color: #61876E;
+}
+
+.pfp-table table {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.pfp-table td {
+
+}
+
+.first-container {
+    padding: 20px;
+}
+
+.second-container {
+    padding: 20px;
+}
+
+.third-container {
+    padding: 20px;
+}
+
+.fourth-container {
+    padding: 20px;
+}
+
+.fifth-container {
+    padding: 20px;
+}
+
+.bio {
+    width: 90%;
+    margin-left: 20px;
+}
+
+.project-outer-level {
+    line-height: 20px;
+}
+
+.projects {
+    color: #3C6255;
+    font-weight: bold;
+}
+
+.project-1 {
+    line-height: 40px;
+}
+
+.project-2 {
+    line-height: 40px;
+}
+
+.project-3 {
+    line-height: 40px;
+}
+
+.project-1-list {
+    font-weight: normal;
+}
+
+.project-2-list {
+    font-weight: normal;
+}
+
+.project-3-list {
+    font-weight: normal;
+}
+
+.edu-outer-level {
+    line-height: 20px;
+    padding-top: 20px;
+}
+
+.educations {
+    color: #3C6255;
+    font-weight: bold;
+}
+
+.edu-1 {}
+
+.edu-2 {}
+
+.edu-1-list {
+    font-weight: normal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.edu-1-list li {
+    line-height: 20px;
+}
+
+.edu-2-list {
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.marks {
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+.marks-table table{
+    table-layout: fixed;
+    width: 60%;
+    border: 2px solid #3C6255;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.marks-table td {
+    border: 2px solid #3C6255;
+    text-align: center;
+    padding: 10px;
+}
+
+.lang-table {
+    padding: 20px;
+}
+.lang-table table {
+    table-layout: fixed;
+    width: 60%;
+    border: 2px solid #3C6255;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.lang-table td {
+    border: 2px solid #3C6255;
+    text-align: center;
+    padding: 10px;
+    color: #3C6255;
+}
+
+.skill-table table{
+    padding: 20px;
+    padding-top: none;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.skill-table td {
+    padding: 12px;
+    color: #3C6255;
+}
+
+hr {
+    border-style: none;
+    border-top-style: solid;
+    border-width: 5px;
+    border-color: #A6BB8D;
+}
+
+a {
+    text-decoration: none;
+    color: #3C6255;
+}
+
+a:hover {
+    color: #A6BB8D;
+}
+
+footer {
+    text-align: center;
+    color: #3C6255;
+    padding: 40px;
+}
