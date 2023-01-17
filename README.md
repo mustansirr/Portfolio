@@ -23,4 +23,4 @@ It's a simple portfolio created using HTML and CSS only.
 
 ## Authors
 
-[@mustansirr](mustansirstr@gmail.com)
+[https://github.com/mustansirr](mustansirstr@gmail.com)
