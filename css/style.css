@@ -11,13 +11,17 @@ body {
     background-color: #EAE7B1;
 }
 
-img {
+.pfp {
     width: 200px;
+    border: 5px solid #A6BB8D;
+    border-radius: 100%;
 }
 
 h1 {
     color: #3C6255;
     font-family: 'Montserrat', 'sans-serif';
+    padding-bottom: 5px;
+    margin: 0px;
 }
 
 h3 {
@@ -27,6 +31,7 @@ h3 {
 
 h4 {
     color: #3C6255;
+    margin-top: 0px;
 }
 
 .marks-heading {
@@ -39,13 +44,38 @@ p {
 
 .pfp-table table {
     margin: 0 auto;
+    margin-top: 10px;
     width: 80%;
 }
 
 .pfp-table td {
-
 }
 
+.pfp-table-col1 {
+    padding-left: 20px;
+}
+.pfp-table-col2 {
+    padding-left: 50px;
+}
+
+.pfp-table-col2 p {
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+.icons img{
+    width: 20px;
+    filter: invert(34%) sepia(6%) saturate(2084%) hue-rotate(108deg) brightness(98%) contrast(92%);
+}
+
+.icons a {
+    padding-right: 20px;
+}
+
+.icons {
+    display: flex;
+    padding: 10px 10px;
+}
 .first-container {
     padding: 20px;
 }
@@ -190,11 +220,11 @@ hr {
 
 a {
     text-decoration: none;
-    color: #3C6255;
+    color: #61876E;
 }
 
 a:hover {
-    color: #A6BB8D;
+    color: #3C6255;
 }
 
 footer {
