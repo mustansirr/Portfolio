@@ -63,19 +63,14 @@ p {
     padding-bottom: 10px;
 }
 
-.icons img{
+.icons-table table {
+    margin: 10px 0px;
+}
+.icons-table img{
     width: 20px;
     filter: invert(34%) sepia(6%) saturate(2084%) hue-rotate(108deg) brightness(98%) contrast(92%);
 }
 
-.icons a {
-    padding-right: 20px;
-}
-
-.icons {
-    display: flex;
-    padding: 10px 10px;
-}
 .first-container {
     padding: 20px;
 }
@@ -143,10 +138,6 @@ p {
     color: #3C6255;
     font-weight: bold;
 }
-
-.edu-1 {}
-
-.edu-2 {}
 
 .edu-1-list {
     font-weight: normal;
