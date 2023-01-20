@@ -9,11 +9,12 @@ body {
     margin: 50px auto;
     border-radius: 60px;
     background-color: #EAE7B1;
+    box-shadow: 10px 10px 5px #61876E;
 }
 
 .pfp {
     width: 200px;
-    border: 5px solid #A6BB8D;
+    border: 5px solid #3C6255;
     border-radius: 100%;
 }
 
@@ -66,11 +67,20 @@ p {
 .icons-table table {
     margin: 10px 0px;
 }
+
+.icons-table td {
+    vertical-align: top;
+}
+
 .icons-table img{
     width: 20px;
     filter: invert(34%) sepia(6%) saturate(2084%) hue-rotate(108deg) brightness(98%) contrast(92%);
+    transition: transform 0.3s;
 }
 
+.icons-table img:hover {
+    transform: translateY(-2px);
+}
 .first-container {
     padding: 20px;
 }
@@ -204,8 +214,8 @@ p {
 
 hr {
     border-style: none;
-    border-top-style: solid;
-    border-width: 5px;
+    border-top-style: ridge;
+    border-width: 8px;
     border-color: #A6BB8D;
 }
 
