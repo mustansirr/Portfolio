@@ -198,7 +198,7 @@ p {
     border: 2px solid #00ADB5;
     text-align: center;
     padding: 10px;
-    color: #00ADB5;
+    filter: invert(54%) sepia(82%) saturate(2590%) hue-rotate(145deg) brightness(91%) contrast(101%);
 }
 
 .skill-table table{
