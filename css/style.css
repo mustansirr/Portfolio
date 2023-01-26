@@ -9,7 +9,7 @@ body {
     margin: 50px auto;
     border-radius: 60px;
     background-color: #222831;
-    box-shadow: 10px 10px 5px #00ADB5;
+    box-shadow: 2px 2px 25px #00ADB5;
 }
 
 .pfp {
@@ -75,12 +75,12 @@ p {
 
 .icons-table img{
     width: 20px;
-    filter: invert(96%) sepia(93%) saturate(101%) hue-rotate(197deg) brightness(114%) contrast(87%);
+    filter: invert(54%) sepia(82%) saturate(2590%) hue-rotate(145deg) brightness(91%) contrast(101%);
     transition: transform 0.3s;
 }
 
 .icons-table img:hover {
-    filter: invert(54%) sepia(82%) saturate(2590%) hue-rotate(145deg) brightness(91%) contrast(101%);
+    filter: invert(39%) sepia(74%) saturate(789%) hue-rotate(141deg) brightness(92%) contrast(93%);
     transform: translateY(-2px);
 }
 .first-container {
@@ -215,18 +215,18 @@ p {
 
 hr {
     border-style: none;
-    border-top-style: groove;
-    border-width: 8px;
+    border-top-style: inset;
+    border-width: 2px;
     border-color: #00ADB5;
 }
 
 a {
     text-decoration: none;
-    color: #EEEEEE;
+    color: #00ADB5;
 }
 
 a:hover {
-    color: #00ADB5;
+    color: #098d94;
 }
 
 footer {
