@@ -1,5 +1,5 @@
 body {
-    background-color: #A6BB8D;
+    background-color: #393E46;
     font-family: 'Montserrat', 'sans-serif';
 }
 
@@ -8,30 +8,31 @@ body {
     width: 50%;
     margin: 50px auto;
     border-radius: 60px;
-    background-color: #EAE7B1;
-    box-shadow: 10px 10px 5px #61876E;
+    background-color: #222831;
+    box-shadow: 10px 10px 5px #00ADB5;
 }
 
 .pfp {
     width: 200px;
-    border: 5px solid #3C6255;
+    border: 5px solid #00ADB5;
+    padding: 3px;
     border-radius: 100%;
 }
 
 h1 {
-    color: #3C6255;
+    color: #00ADB5;
     font-family: 'Montserrat', 'sans-serif';
     padding-bottom: 5px;
     margin: 0px;
 }
 
 h3 {
-    color: #3C6255;
+    color: #00ADB5;
     text-align: center;
 }
 
 h4 {
-    color: #3C6255;
+    color: #00ADB5;
     margin-top: 0px;
 }
 
@@ -40,7 +41,7 @@ h4 {
 }
 
 p {
-    color: #61876E;
+    color: #00ADB5;
 }
 
 .pfp-table table {
@@ -74,11 +75,12 @@ p {
 
 .icons-table img{
     width: 20px;
-    filter: invert(34%) sepia(6%) saturate(2084%) hue-rotate(108deg) brightness(98%) contrast(92%);
+    filter: invert(96%) sepia(93%) saturate(101%) hue-rotate(197deg) brightness(114%) contrast(87%);
     transition: transform 0.3s;
 }
 
 .icons-table img:hover {
+    filter: invert(54%) sepia(82%) saturate(2590%) hue-rotate(145deg) brightness(91%) contrast(101%);
     transform: translateY(-2px);
 }
 .first-container {
@@ -102,7 +104,6 @@ p {
 }
 
 .bio {
-    width: 90%;
     margin-left: 20px;
 }
 
@@ -111,7 +112,7 @@ p {
 }
 
 .projects {
-    color: #3C6255;
+    color: #00ADB5;
     font-weight: bold;
 }
 
@@ -145,7 +146,7 @@ p {
 }
 
 .educations {
-    color: #3C6255;
+    color: #00ADB5;
     font-weight: bold;
 }
 
@@ -171,13 +172,13 @@ p {
 .marks-table table{
     table-layout: fixed;
     width: 60%;
-    border: 2px solid #3C6255;
+    border: 2px solid #00ADB5;
     border-collapse: collapse;
     margin: 0 auto;
 }
 
 .marks-table td {
-    border: 2px solid #3C6255;
+    border: 2px solid #00ADB5;
     text-align: center;
     padding: 10px;
 }
@@ -188,16 +189,16 @@ p {
 .lang-table table {
     table-layout: fixed;
     width: 60%;
-    border: 2px solid #3C6255;
+    border: 2px solid #00ADB5;
     border-collapse: collapse;
     margin: 0 auto;
 }
 
 .lang-table td {
-    border: 2px solid #3C6255;
+    border: 2px solid #00ADB5;
     text-align: center;
     padding: 10px;
-    color: #3C6255;
+    color: #00ADB5;
 }
 
 .skill-table table{
@@ -209,27 +210,27 @@ p {
 
 .skill-table td {
     padding: 12px;
-    color: #3C6255;
+    color: #00ADB5;
 }
 
 hr {
     border-style: none;
-    border-top-style: ridge;
+    border-top-style: groove;
     border-width: 8px;
-    border-color: #A6BB8D;
+    border-color: #00ADB5;
 }
 
 a {
     text-decoration: none;
-    color: #61876E;
+    color: #EEEEEE;
 }
 
 a:hover {
-    color: #3C6255;
+    color: #00ADB5;
 }
 
 footer {
     text-align: center;
-    color: #3C6255;
+    color: #00ADB5;
     padding: 40px;
 }
