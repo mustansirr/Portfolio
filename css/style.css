@@ -199,6 +199,7 @@ p {
 }
 
 .lang-table td {
+    font-weight: bold;
     border: 2px solid #00ADB5;
     text-align: center;
     padding: 10px;
