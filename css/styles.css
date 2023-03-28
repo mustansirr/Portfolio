@@ -1,5 +1,5 @@
 body {
-    background-color: #252A34;
+    background-color: #F0F0F0;
     font-family: 'Quicksand', 'Manrope', 'sans-serif';
 }
 
@@ -8,32 +8,32 @@ body {
     width: 50%;
     margin: 50px auto;
     border-radius: 60px;
-    background-color: #222831;
-    box-shadow: 0px 0px 25px #00ADB5;
+    background-color: #888888;
+    box-shadow: 0px 0px 25px #888888;
 }
 
 .pfp {
     width: 160px;
-    border: 5px solid #00ADB5;
+    border: 5px solid #F0F0F0;
     padding: 3px;
     border-radius: 100%;
 }
 
 h1 {
-    color: #00ADB5;
+    color: #F0F0F0;
     letter-spacing: 2px;
     padding-bottom: 5px;
     margin: 0px;
 }
 
 h3 {
-    color: #00ADB5;
+    color: #F0F0F0;
     letter-spacing: 4px;
     text-align: center;
 }
 
 h4 {
-    color: #00ADB5;
+    color: #F0F0F0;
     letter-spacing: 2px;
     margin-top: 0px;
 }
@@ -43,7 +43,7 @@ h4 {
 }
 
 p {
-    color: #00ADB5;
+    color: #F0F0F0;
     letter-spacing: 1px;
 }
 
@@ -79,12 +79,12 @@ p {
 .icons-table img{
     width: 20px;
     vertical-align: bottom;
-    filter: invert(54%) sepia(82%) saturate(2590%) hue-rotate(145deg) brightness(91%) contrast(101%);
+    filter: invert(99%) sepia(6%) saturate(380%) hue-rotate(210deg) brightness(115%) contrast(88%);
     transition: transform 0.3s ease;
 }
 
 .icons-table img:hover {
-    filter: invert(39%) sepia(74%) saturate(789%) hue-rotate(141deg) brightness(92%) contrast(93%);
+    filter: invert(85%) sepia(20%) saturate(269%) hue-rotate(323deg) brightness(105%) contrast(104%);
     transform: translateY(-4px);
 }
 .first-container {
@@ -116,7 +116,7 @@ p {
 }
 
 .projects {
-    color: #00ADB5;
+    color: #F0F0F0;
     font-weight: bold;
 }
 
@@ -150,7 +150,7 @@ p {
 }
 
 .educations {
-    color: #00ADB5;
+    color: #F0F0F0;
     font-weight: bold;
 }
 
@@ -176,13 +176,13 @@ p {
 .marks-table table{
     table-layout: fixed;
     width: 60%;
-    border: 2px solid #00ADB5;
+    border: 2px solid #F0F0F0;
     border-collapse: collapse;
     margin: 0 auto;
 }
 
 .marks-table td {
-    border: 2px solid #00ADB5;
+    border: 2px solid #F0F0F0;
     text-align: center;
     padding: 10px;
 }
@@ -193,17 +193,17 @@ p {
 .lang-table table {
     table-layout: fixed;
     width: 60%;
-    border: 2px solid #00ADB5;
+    border: 2px solid #F0F0F0;
     border-collapse: collapse;
     margin: 0 auto;
 }
 
 .lang-table td {
     font-weight: bold;
-    border: 2px solid #00ADB5;
+    border: 2px solid #F0F0F0;
     text-align: center;
     padding: 10px;
-    filter: invert(54%) sepia(82%) saturate(2590%) hue-rotate(145deg) brightness(91%) contrast(101%);
+    filter: invert(85%) sepia(20%) saturate(269%) hue-rotate(323deg) brightness(105%) contrast(104%);
 }
 
 .skill-table table{
@@ -215,28 +215,28 @@ p {
 
 .skill-table td {
     padding: 12px;
-    color: #00ADB5;
+    color: #F0F0F0;
 }
 
 hr {
     border-style: none;
     border-top-style: inset;
     border-width: 2px;
-    border-color: #00ADB5;
+    border-color: #F0F0F0;
 }
 
 a {
     text-decoration: none;
-    color: #00ADB5;
+    color: #F0F0F0;
 }
 
 a:hover {
-    color: #098d94;
+    color: #FFE8DF;
 }
 
 footer {
     text-align: center;
     font-size: 0.90rem;
-    color: #00ADB5;
+    color: #F0F0F0;
     padding: 40px;
 }
