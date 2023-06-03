@@ -1,6 +1,6 @@
 # My Portfolio
 
-Contains information regarding myself, my projects, my qualifications etc.
+Contains information about me, my projects, my qualifications etc.
 
 ## Description
 
